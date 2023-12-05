@@ -1,0 +1,17 @@
+{
+  "name": "sentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "adanjz <adanzweig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^7.85.0",
+    "@sentry/profiling-node": "^1.2.6",
+    "dotenv": "^16.3.1"
+  }
+}
